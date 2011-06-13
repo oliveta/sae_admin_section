@@ -1,0 +1,16 @@
+
+#sortable {
+list-style-type:none;
+position:relative;
+margin:none;
+padding:none;
+}
+
+#sortable .sort {
+padding:5px 0px;
+border-bottom:solid 1px #0070bf;
+margin:0em;
+list-style-type:none;
+cursor:move;
+}
+
